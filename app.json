@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "direct-turquoise-woodpecker",
+    "slug": "direct-turquoise-woodpecker",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "ios": { "bundleIdentifier": "computer.inti.directturquoisewoodpecker" },
+    "scheme": "directturquoisewoodpecker"
+  }
+}
